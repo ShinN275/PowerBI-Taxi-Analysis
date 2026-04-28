@@ -20,7 +20,7 @@ Dashboard koncentruje się na analizie przejazdów w Nowym Jorku w wybranym okre
 
 ---
 
-## 📈 Kluczowe wskaźniki KPI
+## Kluczowe wskaźniki KPI
 
 Poniżej przedstawiono główne wskaźniki efektywności wykorzystane w dashboardzie:
 
